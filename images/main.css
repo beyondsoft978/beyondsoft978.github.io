@@ -1,0 +1,36 @@
+BODY {
+	FONT-SIZE: 12px; MARGIN: 0px; FONT-FAMILY: "宋体"
+}
+.navigation {
+	FONT-SIZE: 14px; COLOR: #ffffff; FONT-FAMILY: "宋体"
+}
+.navigation :link {
+	COLOR: #ffffff
+}
+.navigation :hover {
+	COLOR: #ffffff
+}
+.navigation :visited {
+	COLOR: #ffffff
+}
+.news {
+	FONT-SIZE: 12px; LINE-HEIGHT: 25px; FONT-FAMILY: "宋体"
+}
+A:link {
+	COLOR: #333333; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #333333; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #0e448c; TEXT-DECORATION: underline
+}
+.Product {
+	LINE-HEIGHT: 18px
+}
+.articles18 {
+	FONT-SIZE: 12px; LINE-HEIGHT: 18px; FONT-FAMILY: "宋体"
+}
+.STYLE1 {
+	COLOR: #ff0000
+}
